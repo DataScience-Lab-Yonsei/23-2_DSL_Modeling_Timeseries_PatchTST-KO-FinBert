@@ -78,21 +78,21 @@
 │      한경글로벌마켓_최종.csv
 │
 ├─SourceCode
-│  ├─1.NLP_Preprocessing
+│  ├─NLP_Preprocessing
 │  │      3pro.py
 │  │      data_preprocessing.py
 │  │      talent_data_preprocessing.py
 │  │
-│  ├─2.Correlation
+│  ├─Correlation
 │  │      부읽남.py
 │  │      삼프로.py
-|  |	  한경.py
+│  │	  한경.py
 │  │
-│  └─3.Timeseries_Forecasting
-│  |      Arima.py
-|  |      PatchTST.py
-|  |      Arima&PatchTST_h_50.py
-│  |
-├─ EDA-C조.pdf
+│  └─Timeseries_Forecasting
+│  │      Arima.py
+│  │      PatchTST.py
+│  │      Arima&PatchTST_h_50.py
+│  │
+├─ 유감TV_KOSDAQ.pdf
 └── README.md
 ``` 
